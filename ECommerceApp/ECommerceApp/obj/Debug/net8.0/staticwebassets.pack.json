@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\lushe\\OneDrive\\Documents\\C# Projects\\E-Commerce-Project\\ECommerceApp\\ECommerceApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ECommerceApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ECommerceApp.365tn2iudd.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\lushe\\OneDrive\\Documents\\C# Projects\\E-Commerce-Project\\ECommerceApp\\ECommerceApp\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\lushe\\OneDrive\\Documents\\C# Projects\\E-Commerce-Project\\ECommerceApp\\ECommerceApp\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lushe\\OneDrive\\Documents\\C# Projects\\E-Commerce-Project\\ECommerceApp\\ECommerceApp\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lushe\\OneDrive\\Documents\\C# Projects\\E-Commerce-Project\\ECommerceApp\\ECommerceApp\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\lushe\\OneDrive\\Documents\\C# Projects\\E-Commerce-Project\\ECommerceApp\\ECommerceApp\\wwwroot\\images\\Logo.png",
+      "PackagePath": "staticwebassets\\images\\Logo.png"
+    },
+    {
+      "Id": "C:\\Users\\lushe\\OneDrive\\Documents\\C# Projects\\E-Commerce-Project\\ECommerceApp\\ECommerceApp\\wwwroot\\images\\default.png",
+      "PackagePath": "staticwebassets\\images\\default.png"
+    },
+    {
+      "Id": "C:\\Users\\lushe\\OneDrive\\Documents\\C# Projects\\E-Commerce-Project\\ECommerceApp\\ECommerceApp\\wwwroot\\images\\lawn_leaf.jpg",
+      "PackagePath": "staticwebassets\\images\\lawn_leaf.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lushe\\OneDrive\\Documents\\C# Projects\\E-Commerce-Project\\ECommerceApp\\ECommerceApp\\wwwroot\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\images\\loading.gif"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ECommerceApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ECommerceApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ECommerceApp.props",
+      "PackagePath": "build\\ECommerceApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ECommerceApp.props",
+      "PackagePath": "buildMultiTargeting\\ECommerceApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ECommerceApp.props",
+      "PackagePath": "buildTransitive\\ECommerceApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
