@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\lushe\\OneDrive\\Documents\\C# Projects\\E-Commerce-Project\\ECommerceApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AB33534E-BD32-405A-97A4-EA276D6F3D59}|ECommerceApp\\ECommerceApp.csproj|c:\\users\\lushe\\onedrive\\documents\\c# projects\\e-commerce-project\\ecommerceapp\\ecommerceapp\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB33534E-BD32-405A-97A4-EA276D6F3D59}|ECommerceApp\\ECommerceApp.csproj|solutionrelative:ecommerceapp\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB33534E-BD32-405A-97A4-EA276D6F3D59}|ECommerceApp\\ECommerceApp.csproj|c:\\users\\lushe\\onedrive\\documents\\c# projects\\e-commerce-project\\ecommerceapp\\ecommerceapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AB33534E-BD32-405A-97A4-EA276D6F3D59}|ECommerceApp\\ECommerceApp.csproj|solutionrelative:ecommerceapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB33534E-BD32-405A-97A4-EA276D6F3D59}|ECommerceApp\\ECommerceApp.csproj|c:\\users\\lushe\\onedrive\\documents\\c# projects\\e-commerce-project\\ecommerceapp\\ecommerceapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB33534E-BD32-405A-97A4-EA276D6F3D59}|ECommerceApp\\ECommerceApp.csproj|solutionrelative:ecommerceapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AB33534E-BD32-405A-97A4-EA276D6F3D59}|ECommerceApp\\ECommerceApp.csproj|c:\\users\\lushe\\onedrive\\documents\\c# projects\\e-commerce-project\\ecommerceapp\\ecommerceapp\\components\\layout\\category_pages\\categorylist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{AB33534E-BD32-405A-97A4-EA276D6F3D59}|ECommerceApp\\ECommerceApp.csproj|solutionrelative:ecommerceapp\\components\\layout\\category_pages\\categorylist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB33534E-BD32-405A-97A4-EA276D6F3D59}|ECommerceApp\\ECommerceApp.csproj|c:\\users\\lushe\\onedrive\\documents\\c# projects\\e-commerce-project\\ecommerceapp\\ecommerceapp\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AB33534E-BD32-405A-97A4-EA276D6F3D59}|ECommerceApp\\ECommerceApp.csproj|solutionrelative:ecommerceapp\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{AB33534E-BD32-405A-97A4-EA276D6F3D59}|ECommerceApp\\ECommerceApp.csproj|c:\\users\\lushe\\onedrive\\documents\\c# projects\\e-commerce-project\\ecommerceapp\\ecommerceapp\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB33534E-BD32-405A-97A4-EA276D6F3D59}|ECommerceApp\\ECommerceApp.csproj|solutionrelative:ecommerceapp\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB33534E-BD32-405A-97A4-EA276D6F3D59}|ECommerceApp\\ECommerceApp.csproj|c:\\users\\lushe\\onedrive\\documents\\c# projects\\e-commerce-project\\ecommerceapp\\ecommerceapp\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB33534E-BD32-405A-97A4-EA276D6F3D59}|ECommerceApp\\ECommerceApp.csproj|solutionrelative:ecommerceapp\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AB33534E-BD32-405A-97A4-EA276D6F3D59}|ECommerceApp\\ECommerceApp.csproj|c:\\users\\lushe\\onedrive\\documents\\c# projects\\e-commerce-project\\ecommerceapp\\ecommerceapp\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB33534E-BD32-405A-97A4-EA276D6F3D59}|ECommerceApp\\ECommerceApp.csproj|solutionrelative:ecommerceapp\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AB33534E-BD32-405A-97A4-EA276D6F3D59}|ECommerceApp\\ECommerceApp.csproj|c:\\users\\lushe\\onedrive\\documents\\c# projects\\e-commerce-project\\ecommerceapp\\ecommerceapp\\repository\\irespository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,11 +46,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lushe\\OneDrive\\Documents\\C# Projects\\E-Commerce-Project\\ECommerceApp\\ECommerceApp\\Program.cs",
+              "RelativeDocumentMoniker": "ECommerceApp\\Program.cs",
+              "ToolTip": "C:\\Users\\lushe\\OneDrive\\Documents\\C# Projects\\E-Commerce-Project\\ECommerceApp\\ECommerceApp\\Program.cs",
+              "RelativeToolTip": "ECommerceApp\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABAAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T17:50:38.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\lushe\\OneDrive\\Documents\\C# Projects\\E-Commerce-Project\\ECommerceApp\\ECommerceApp\\appsettings.json",
+              "RelativeDocumentMoniker": "ECommerceApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\lushe\\OneDrive\\Documents\\C# Projects\\E-Commerce-Project\\ECommerceApp\\ECommerceApp\\appsettings.json",
+              "RelativeToolTip": "ECommerceApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-07T17:49:42.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\lushe\\OneDrive\\Documents\\C# Projects\\E-Commerce-Project\\ECommerceApp\\ECommerceApp\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "ECommerceApp\\Components\\_Imports.razor",
+              "ToolTip": "C:\\Users\\lushe\\OneDrive\\Documents\\C# Projects\\E-Commerce-Project\\ECommerceApp\\ECommerceApp\\Components\\_Imports.razor",
+              "RelativeToolTip": "ECommerceApp\\Components\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-07T17:37:41.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "NavMenu.razor",
               "DocumentMoniker": "C:\\Users\\lushe\\OneDrive\\Documents\\C# Projects\\E-Commerce-Project\\ECommerceApp\\ECommerceApp\\Components\\Layout\\NavMenu.razor",
               "RelativeDocumentMoniker": "ECommerceApp\\Components\\Layout\\NavMenu.razor",
@@ -46,38 +97,37 @@
               "RelativeToolTip": "ECommerceApp\\Components\\Layout\\NavMenu.razor",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-06T18:02:22.65Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-06T18:02:22.65Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "CategoryList.razor",
               "DocumentMoniker": "C:\\Users\\lushe\\OneDrive\\Documents\\C# Projects\\E-Commerce-Project\\ECommerceApp\\ECommerceApp\\Components\\Layout\\Category_Pages\\CategoryList.razor",
               "RelativeDocumentMoniker": "ECommerceApp\\Components\\Layout\\Category_Pages\\CategoryList.razor",
               "ToolTip": "C:\\Users\\lushe\\OneDrive\\Documents\\C# Projects\\E-Commerce-Project\\ECommerceApp\\ECommerceApp\\Components\\Layout\\Category_Pages\\CategoryList.razor",
               "RelativeToolTip": "ECommerceApp\\Components\\Layout\\Category_Pages\\CategoryList.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAACkAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-06T18:02:15.963Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "CategoryRepository.cs",
               "DocumentMoniker": "C:\\Users\\lushe\\OneDrive\\Documents\\C# Projects\\E-Commerce-Project\\ECommerceApp\\ECommerceApp\\Repository\\CategoryRepository.cs",
               "RelativeDocumentMoniker": "ECommerceApp\\Repository\\CategoryRepository.cs",
               "ToolTip": "C:\\Users\\lushe\\OneDrive\\Documents\\C# Projects\\E-Commerce-Project\\ECommerceApp\\ECommerceApp\\Repository\\CategoryRepository.cs",
               "RelativeToolTip": "ECommerceApp\\Repository\\CategoryRepository.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAAAEAAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAAEAAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-06T17:46:39.312Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "ICategoryRepository.cs",
               "DocumentMoniker": "C:\\Users\\lushe\\OneDrive\\Documents\\C# Projects\\E-Commerce-Project\\ECommerceApp\\ECommerceApp\\Repository\\IRespository\\ICategoryRepository.cs",
               "RelativeDocumentMoniker": "ECommerceApp\\Repository\\IRespository\\ICategoryRepository.cs",
@@ -85,12 +135,11 @@
               "RelativeToolTip": "ECommerceApp\\Repository\\IRespository\\ICategoryRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T17:42:54.342Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-06T17:42:54.342Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\lushe\\OneDrive\\Documents\\C# Projects\\E-Commerce-Project\\ECommerceApp\\ECommerceApp\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "ECommerceApp\\Data\\ApplicationDbContext.cs",
@@ -102,7 +151,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\lushe\\OneDrive\\Documents\\C# Projects\\E-Commerce-Project\\ECommerceApp\\ECommerceApp\\Data\\Category.cs",
               "RelativeDocumentMoniker": "ECommerceApp\\Data\\Category.cs",
